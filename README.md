@@ -40,7 +40,7 @@ Atualmente, estou em processo de formação tecnologica na área de desenvolvime
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-link)
-- 💼 [Lattes] (http://lattes.cnpq.br/7391782195159814)
+- 💼 [Lattes](http://lattes.cnpq.br/7391782195159814)
 - 📧 mikaelle.barroso@ifpi.edu.br
 - 🌐 [IFPI - Campus Piripiri](https://www.ifpi.edu.br/piripiri)
 
