@@ -2,7 +2,7 @@
 
 🎓 Professora | 💼 Coordenadora no IFPI Campus Piripiri  
 📚 Mestra em Educação Profissional e Tecnológica (PROFEPT)  
-💡 Apaixonada por Gestão, Inovação, Sustentabilidade e Empreendedorismo  
+💡 Apaixonada por Tecnologia, Gestão, Inovação, Sustentabilidade e Empreendedorismo  
 🚀 Estudante de Análise e Desenvolvimento de Sistemas  
 
 ---
@@ -11,17 +11,17 @@
 
 Sou uma educadora e pesquisadora que acredita no poder da tecnologia como ferramenta de transformação social. Tenho experiência com metodologias ativas, projetos de ensino integradores e desenvolvimento de soluções práticas para o dia a dia de pequenos negócios e instituições de ensino.
 
-Atualmente, estou em processo de formação tecnologica na área de desenvolvimento de sistemas, aprimorando minhas habilidades em lógica de programação, banco de dados, TypeScript e desenvolvimento web.
+Atualmente, estou em processo de formação tecnologica na área de desenvolvimento de sistemas, aprimorando minhas habilidades em lógica de programação, banco de dados e TypeScript.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas (Aprendendo)
 
-- 💻 **Linguagens**: TypeScript, JavaScript, SQL, HTML, CSS.
-- 🗃️ **Banco de Dados**: MySQL, DB Fiddle.
-- 🌐 **Ferramentas**: VSCode, Git, GitHub, Lucidchart, Canva.
+- 💻 **Linguagens**: TypeScript, JavaScript.
+- 🗃️ **Banco de Dados**: MySQL.
+- 🌐 **Ferramentas**: VSCode, Git, GitHub, Canva.
 - 🧑‍🏫 **Educação**: Planejamento de Aulas, Design Educacional.
-- 📊 **Outros**: Power BI, Excel Avançado, Google Workspace.
+- 📊 **Outros**: Excel Avançado, Google Workspace.
 
 ---
 
