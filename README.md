@@ -1,6 +1,6 @@
 # 👩‍💻 Mikaelle Raulino Barroso
 
-🎓 Professora | 💼 Coordenadora Curso Técnivo em Administração no IFPI Campus Piripiri  
+🎓 Professora | 💼 Coordenadora Curso Técnico em Administração no IFPI Campus Piripiri  
 📚 Mestra em Educação Profissional e Tecnológica (PROFEPT)  
 💡 Apaixonada por Tecnologia, Gestão, Inovação, Sustentabilidade e Empreendedorismo  
 🚀 Estudante de Análise e Desenvolvimento de Sistemas  
