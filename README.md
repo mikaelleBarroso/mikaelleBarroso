@@ -11,7 +11,7 @@
 
 Sou uma educadora e pesquisadora que acredita no poder da tecnologia como ferramenta de transformação social. Tenho experiência com metodologias ativas, projetos de ensino integradores e desenvolvimento de soluções práticas para o dia a dia de pequenos negócios.
 
-Atualmente, estou em processo de formação tecnologica na área de desenvolvimento de sistemas, aprimorando minhas habilidades em lógica de programação, banco de dados e TypeScript.
+Atualmente, estou em processo de formação tecnologica na área de desenvolvimento de sistemas, aprimorando minhas habilidades em lógica de programação, banco de dados, JavaScript e TypeScript.
 
 ---
 
